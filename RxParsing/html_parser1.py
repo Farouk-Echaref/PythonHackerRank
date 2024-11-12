@@ -32,3 +32,4 @@ if __name__ == "__main__":
         html_str += input()
         N -= 1
     my_parser.feed(html_str)
+    my_parser.close()
