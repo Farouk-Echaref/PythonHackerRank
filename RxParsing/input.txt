@@ -1,3 +1,5 @@
-2
-<html><head><title>HTML Parser - I</title></head>
-<body data-modal-target class='1'><h1>HackerRank</h1><br /></body></html>
+4
+<!--[if IE 9]>IE9-specific content
+<![endif]-->
+<div> Welcome to HackerRank</div>
+<!--[if IE 9]>IE9-specific content<![endif]-->
